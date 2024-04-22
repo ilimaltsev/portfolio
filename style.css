@@ -6,6 +6,19 @@ body {
 
 
 h1 {
+    
+    font-family: Georgia;
+    color: white;
+    
+    width: 850px;
+    height: 40px;
+    margin-left: 50px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.qwerty {
     text-align: left;
     font-family: Georgia;
     color: white;
@@ -17,7 +30,6 @@ h1 {
     display: flex;
     justify-content: center;
 }
-
 
 
 header {
@@ -37,8 +49,8 @@ main {
 h2 {
     color: white;
     position: relative;
-    left: 30px;
-    bottom: 30px;
+    margin-left: 50px;
+    
 }
 
 iframe {
@@ -77,7 +89,8 @@ a:hover {
 
 p {
     margin-left: 25px;
-    font-size: 20px;
+    font-size: 15px;
+    padding-bottom: 30px;
 }
 
 li {
@@ -120,4 +133,19 @@ a img {
 
 ul {
     margin-left: 30px;
+}
+
+h3{
+    margin: 30px;
+}
+
+.wasd {
+    height:40px;
+    justify-content: left;
+
+}
+
+.zxc {
+    width: 200px;
+    height: 130px;
 }

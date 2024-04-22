@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     color: white;
-    font-size: 20px;
+    
 }
 
 .qwerty {
@@ -87,8 +87,7 @@ a:hover {
 
 p {
     margin-left: 25px;
-    font-size: 40px;
-    
+    font-size: 20px;
 }
 
 li {

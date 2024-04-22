@@ -85,10 +85,12 @@ li {
 }
 
 img {
-    height: 300px;
-    width: 400px;
-    margin: 20px;
+    height: 230px;
+    width: 300px;
+    margin-top: 20px;
+    margin-right: 50px;
     float: right;
+    clear:both;
 }
 
 .hhh{
@@ -105,4 +107,17 @@ a img {
 
 .hhh:hover {
     background-color: none;
+}
+
+.ttt {
+    height: 210px;
+    width: 210px;
+    margin-right: 80px;
+    float: top;
+    margin-top: 20px;
+    clear:both;
+}
+
+ul {
+    margin-left: 30px;
 }
